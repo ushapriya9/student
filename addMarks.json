@@ -1,0 +1,2 @@
+[{"studentRollNumber": "3","marks":[{"subject": { "name":"English"},"obtained": "3","outOf": "30"},{"subject": {"name":"Hindi"},"obtained": "30","outOf": "30"},{"subject": {"name":"Tamil"},"obtained": "15","outOf": "15"}]},
+{"studentRollNumber": "4","marks":[{"subject": { "name":"English"},"obtained": "10","outOf": "30"},{"subject": {"name":"Hindi"},"obtained": "25","outOf": "30"},{"subject": {"name":"Tamil"},"obtained": "12","outOf": "15"}]}]
